@@ -1,21 +1,10 @@
 {
   "name": "iranslocations",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "get States and Cities of Iran ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "iran",
-    "city",
-    "state",
-    "get",
-    "data"
-  ],
-  "author": {
-    "name": "Mohammad Ahmadi",
-    "email": "sm.ahmadi77@yahoo.com"
   },
   "keywords": [
     "cities",
@@ -24,5 +13,9 @@
     "iran",
     "state"
   ],
+  "author": {
+    "name": "Mohammad Ahmadi",
+    "email": "sm.ahmadi77@yahoo.com"
+  },
   "license": "ISC"
 }
