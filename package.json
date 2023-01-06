@@ -1,6 +1,6 @@
 {
   "name": "iranslocations",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "get States and Cities of Iran ",
   "main": "index.js",
   "scripts": {
