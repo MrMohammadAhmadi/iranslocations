@@ -9,7 +9,7 @@ function getCities() {
 }
 function getCertainCities(stateID) {
   let certainCities = [];
-  certainCities = cities.filter((item) => item.states === stateID);
+  certainCities = cities.filter((item) => item.stateId === stateID);
   return certainCities;
 }
 

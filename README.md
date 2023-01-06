@@ -8,7 +8,8 @@ this package will help you to get cities and states of Iran by some functions
 ```
   getStates()  // get all states of Iran
   getCities() // get all cities of Iran
-  getCertainCities( stateid ) // get certain cities of Iran related by given state Id
+  getCertainCities( stateId ) // get certain cities of Iran related by given stateId
+
 ```
 
 **Usage**
@@ -26,4 +27,4 @@ const {
 ```
 
 **changelog**
-1.0.1
+1.0.4
