@@ -1,4 +1,4 @@
-## iranlocations
+## iranslocations
 
 Hi! Everyone
 this package will help you to get cities and states of Iran by some functions
@@ -23,8 +23,5 @@ const {
   getStates,
   getCities,
   getCertainCities,
-} = require('iranlocations');
+} = require('iranslocations');
 ```
-
-**changelog**
-1.0.4
